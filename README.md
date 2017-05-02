@@ -1,2 +1,2 @@
 # node-utils
-Utility routines for node.js
+Utility functions to support Node.js development
